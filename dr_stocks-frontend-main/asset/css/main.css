@@ -1,0 +1,148 @@
+.profile-image-pic {
+	height: 200px;
+	width: 200px;
+	object-fit: cover;
+}
+
+.cardbody-color {
+	background-color: #a1a3a5;
+}
+.form-control-user {
+	border-radius: 50px;
+	padding: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* hs */
+
+body {
+	background-color: #a1a3a5;
+	margin: 0px;
+}
+@media (min-width: 991.98px) {
+	main {
+		padding-left: 100px;
+	}
+}
+
+nav {
+	padding: 0px;
+	margin: 0px;
+}
+
+/* Sidebar */
+.sidebar {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	padding: 58px 0 0; /* Height of navbar */
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 5%), 0 2px 10px 0 rgb(0 0 0 / 5%);
+	width: 100px;
+	z-index: 600;
+	background-color: #363636;
+}
+
+@media (max-width: 100px) {
+	.sidebar {
+		position: fixed;
+		width: 100%;
+	}
+}
+
+.sidebar-sticky {
+	position: relative;
+	top: 0;
+	height: calc(100vh - 48px);
+	padding-top: 0.5rem;
+	overflow-x: hidden;
+	overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
+}
+
+svg {
+	color: #f8bd74;
+}
+
+small {
+	color: #f8bd74;
+	text-decoration: none;
+}
+
+nav-link {
+	padding: 0px;
+	margin: 0px;
+}
+
+.box-width {
+	width: 100px;
+}
+
+.appname {
+	color: #f8bd74;
+	float: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: medium;
+}
+
+.navbar {
+	background-color: #363636;
+	height: 58px;
+}
+
+.navbar-brand {
+	padding: 0px;
+}
+
+.bottomicons {
+	position: fixed;
+	bottom: 0;
+}
+
+.content {
+	position: fixed;
+	left: 100px;
+}
+
+.cardstyle {
+	margin-top: 10px;
+	color: #df9740;
+	justify-content: center;
+}
+
+.profilecolumn {
+	align-items: center;
+	justify-content: center;
+	width: 400px;
+}
+
+.columns {
+	align-items: center;
+	justify-content: center;
+	width: 1000px;
+}
+
+/* cw */
+.orange {
+	color: #f8bd74;
+	font-size: medium;
+}
+
+.bg-orange {
+	background-color: #f8bd74;
+}
+
+.custom-nav:hover {
+	background-color: rgb(92, 92, 92);
+}
+
+#chartdiv {
+	background-color: rgb(27, 27, 27);
+	width: 100%;
+	height: 500px;
+}
