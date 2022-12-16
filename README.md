@@ -1,3 +1,7 @@
+Merger of this 2 repositories 
+https://github.com/ESDG3/dr_stocks-frontend
+https://github.com/ESDG3/dr_stocks-backend
+
 # Dr Stocks Backend Setup Guide
 Prerequisite to run this project
 1. WAMPServer
