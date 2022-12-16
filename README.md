@@ -1,6 +1,6 @@
-Merger of this 2 repositories 
-https://github.com/ESDG3/dr_stocks-frontend
-https://github.com/ESDG3/dr_stocks-backend
+Merger of this 2 repositories <br />
+https://github.com/ESDG3/dr_stocks-frontend <br />
+https://github.com/ESDG3/dr_stocks-backend <br />
 
 # Dr Stocks Backend Setup Guide
 Prerequisite to run this project
